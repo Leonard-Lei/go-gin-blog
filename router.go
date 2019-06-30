@@ -1,8 +1,8 @@
 package main
 
 import (
-	. "github.com/flyray/go-gin-blog/apis"
 	"github.com/gin-gonic/gin"
+	. "go-gin-blog/apis"
 )
 
 func initRouter() *gin.Engine {

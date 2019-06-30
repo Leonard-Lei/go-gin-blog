@@ -12,7 +12,7 @@ func main() {
 }
 */
 import (
-	db "github.com/flyray/go-gin-blog/database"
+	db "go-gin-blog/database"
 )
 
 func main() {

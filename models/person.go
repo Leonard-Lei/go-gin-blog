@@ -1,7 +1,7 @@
 package models
 
 import (
-	db "github.com/flyray/go-gin-blog/database"
+	db "go-gin-blog/database"
 )
 
 type Person struct {

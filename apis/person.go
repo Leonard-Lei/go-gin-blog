@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	. "github.com/flyray/go-gin-blog/models"
 	"github.com/gin-gonic/gin"
+	. "go-gin-blog/models"
 )
 
 func IndexApi(c *gin.Context) {
